@@ -1,0 +1,40 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Sun Aug 01 23:34:09 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00003c
+                   .cinit    romdata   0x00001e    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/TRAFFIC       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00001f      
+                            0x002007    0x002007      
+            33 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    LOOP1   0x00000d    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+                    LOOP2   0x000014    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+                    LOOP3   0x00001b    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+                     SART   0x000009    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     SART   0x000009    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+                    LOOP1   0x00000d    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+                    LOOP2   0x000014    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+                    LOOP3   0x00001b    program     static C:\Users\odile\MPLABXProjects\TRAFFIC_LIGHT_ASSEMBLY.X\TRAFFIC_LIGHT_ASSEMBLY.asm
+
+
